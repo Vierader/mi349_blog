@@ -16,8 +16,16 @@ h1{
     margin: 0;
 }
 
+h2{
+    font-size: 2em;
+}
+
+h3{
+    font-size: 1.4em
+}
+
 p{
-    font-size: 1.4em;
+    font-size: 1.2em;
 }
 
 #blog{
@@ -25,5 +33,15 @@ p{
 }
 
 .blog-post{
+    border-bottom: 1px dotted #ccc;
+}
 
+.author{
+    font-family: 'Times New Roman', Times, serif;
+    color: red;
+}
+
+time{
+    font-family: 'Times New Roman', Times, serif;
+    color: red;
 }
