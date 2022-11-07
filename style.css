@@ -28,10 +28,10 @@ section{
     display: flex;
 }
 
-#anime{
+#anime-rank{
     background: black;
-    display:flex;
-    flex-direction: column;
+    display: flex;
+    top: 0;
 }
 h1{
     font-size: 3em;
