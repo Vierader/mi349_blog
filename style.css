@@ -1,16 +1,38 @@
 html{
     background: #e3e3e3
 }
-
+header{
+    color:black;
+}
 body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin: 40px;
     padding:40px;
-    color: #242424;
+    color: purple;
     border-top: 10px solid #242424;
     background: #fff;
 }
 
+nav{
+    background: black;
+    position: sticky;
+    top: 0;
+}
+
+nav ul li{
+    list-style: none;
+    
+}
+section{
+    background: gray;
+    display: flex;
+}
+
+#anime{
+    background: black;
+    display:flex;
+    flex-direction: column;
+}
 h1{
     font-size: 3em;
     margin: 0;
@@ -52,5 +74,5 @@ form{
 }
 
 a{
-    color: chocolate;
+    color: white;
 }
