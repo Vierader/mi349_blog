@@ -76,3 +76,9 @@ form{
 a{
     color: white;
 }
+
+@media (max-width: 400px) {
+    html {
+        background: red;
+    }
+}
