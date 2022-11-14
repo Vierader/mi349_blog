@@ -78,7 +78,7 @@ a{
 }
 
 @media (max-width: 400px) {
-    section{
-        background: red;
+    section {
+        background-color: red;
     }
 }
