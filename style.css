@@ -1,6 +1,7 @@
 html{
     background: #e3e3e3
 }
+
 header{
     color:black;
 }
@@ -77,8 +78,8 @@ a{
     color: white;
 }
 
-@media (max-width: 400px) {
-    section {
+@media (max-width: 1000px) {
+    body {
         background-color: red;
     }
 }
